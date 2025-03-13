@@ -47,7 +47,7 @@ source_suffix = {
 templates_path = ['_templates']
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store', 'Makefile', 
   '.gitignore', '.gitattributes', '.git',
-  '*.py', '*.bat', '*.sh', 
+  '*.py', '*.bat', '*.sh', 'LICENSE'
   'requirements.txt', '*venv', 
 ]
 
@@ -61,3 +61,9 @@ html_last_updated_fmt = ''
 html_css_files = [
         "footer.css",
 ]
+html_theme_options = {
+    "source_repository": "https://github.com/brucekomike/furo-temp",
+    "source_branch": "main",
+    "source_directory": "source/",
+    "navigation_with_keys": True,
+}

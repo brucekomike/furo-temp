@@ -1,7 +1,5 @@
 # template
-
-
-
+a simple sphinx template with furo theme and github actions.
 <!-- start elevator-pitch -->
 ## quick start
 download [zip file](https://github.com/brucekomike/furo-temp/archive/refs/heads/main.zip) or dirrect start from this template
@@ -15,4 +13,8 @@ download [zip file](https://github.com/brucekomike/furo-temp/archive/refs/heads/
 - modify the `page.html` in `source/_templates`
   - add your own footer links (such as ICP)
 - start content creation
+
+## resources
+- [furo docs](https://pradyunsg.me/furo/)
+- [sphinx docs](https://www.sphinx-doc.org/en/master/index.html)
 <!-- end elevator-pitch -->

@@ -10,12 +10,14 @@ A sphinx template for building document with furo.
 :start-after: <!-- start elevator-pitch -->
 :end-before: <!-- end elevator-pitch -->
 ```
-
+```{toctree}
+:caption: Getting Started
+tutorial/index
+```
 ```{toctree}
 :caption: Development
 :hidden:
 :maxdepth: 2
 manual/index
-tutorial/index
 reference/index
 ```

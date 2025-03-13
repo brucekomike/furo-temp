@@ -3,6 +3,7 @@
 :maxdepth: 2
 :hidden:
 
-test
-test2
+01-template
+02-embeded
+03-tweaks
 ```
