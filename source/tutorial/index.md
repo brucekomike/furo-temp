@@ -1,4 +1,5 @@
 # tutorial
+the steps to use this template is described in this section.
 ```{toctree}
 :maxdepth: 2
 :hidden:
