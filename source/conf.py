@@ -67,3 +67,4 @@ html_theme_options = {
     "source_directory": "source/",
     "navigation_with_keys": True,
 }
+highlight_language = 'text'
