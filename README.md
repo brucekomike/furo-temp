@@ -1,6 +1,6 @@
-# template
-a simple sphinx template with furo theme and github actions.
 <!-- start elevator-pitch -->
+# furo template
+a simple sphinx template with furo theme and github actions.
 ## quick start
 download [zip file](https://github.com/brucekomike/furo-temp/archive/refs/heads/main.zip) or dirrect start from this template
 

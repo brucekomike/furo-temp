@@ -10,7 +10,7 @@ project = 'template-intergrated'
 copyright = '2025, brucekomike'
 author = 'brucekomike'
 release = 'v0.1.0'
-language='zh_CN'
+language='en'
 # 'en' 'jp' 'zh_CN'
 
 # -- General configuration ---------------------------------------------------

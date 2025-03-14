@@ -7,4 +7,5 @@ the steps to use this template is described in this section.
 01-template
 02-embeded
 03-tweaks
+04-building
 ```
