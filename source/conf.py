@@ -68,3 +68,9 @@ html_theme_options = {
     "navigation_with_keys": True,
 }
 highlight_language = 'text'
+#html_logo = '_static/logo.svg'
+ogp_site_url = 'https://brucekomike.github.io/furo-temp'
+#ogp_image = '_static/logo.svg'
+#ogp_image_alt = 'site logo'
+ogp_site_name = 'furo template'
+ogp_use_first_image = True
