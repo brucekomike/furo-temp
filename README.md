@@ -1,6 +1,8 @@
 <!-- start elevator-pitch -->
 # furo template
 a simple sphinx template with furo theme and github actions.
+## ATTENTION
+this project has been migrated to [furo-embeded](https://github.com/brucekomike/furo-embeded)
 ## quick start
 download [zip file](https://github.com/brucekomike/furo-temp/archive/refs/heads/main.zip) or dirrect start from this template
 
